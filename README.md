@@ -18,4 +18,4 @@ Untuk mengakses halaman tracking referal gunakan route admin.php dan untuk regis
 
 
 Thanks!
-Wise me can pass the test 
+Wish me can pass the test 
